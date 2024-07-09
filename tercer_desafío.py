@@ -1,4 +1,4 @@
-#segndo desafío
+#segndo desafío, de pdf
 #lunes/07/2024
 
 
