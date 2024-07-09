@@ -1,0 +1,9 @@
+#Mini calcladora
+
+numero_a=40
+numero_b=20
+
+print(numero_a+numero_b)
+print(numero_a-numero_b)
+print(numero_a*numero_b)
+print(numero_a/numero_b)
